@@ -70,4 +70,3 @@ def cropIM(imagepath, saveimagepath):
             break
     cv2.destroyAllWindows()
 
-cropIm("DATA/gorilla.JPG", "DATA/test.JPG")
